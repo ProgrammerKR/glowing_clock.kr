@@ -61,3 +61,15 @@ html,body{
 .wrapper span:last-child{
   filter: blur(20px);
 }
+
+
+.mname{
+  color: white;
+  font-size: 28px;
+  text-align: center;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  margin-top: -320px;
+}
